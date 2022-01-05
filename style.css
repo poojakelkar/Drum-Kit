@@ -1,0 +1,43 @@
+#title{
+    text-align: center;
+    font-size: 3rem;
+}
+.set{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem; 
+}
+.drum{
+    border: 10px solid #404869;
+    font-size: 5rem;
+    font-family: 'arvo', cursive;
+    color: #DA0463;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+}
+.w{
+    background-image: url("crash.png");
+}
+.a{
+
+}
+.s{
+
+}
+.d{
+
+}
+.j{
+
+}
+.k{
+
+}
+.l{
+
+}
+   
