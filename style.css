@@ -18,26 +18,27 @@
     height: 150px;
     text-align: center;
     margin: 10px;
+    border-radius: 1rem;
 }
 .w{
-    background-image: url("crash.png");
+    background-image: url("images/w.png");
 }
 .a{
-
+    background-image: url("images/a.png");
 }
 .s{
-
+    background-image: url("images/s.png");
 }
 .d{
-
+    background-image: url("images/d.png");
 }
 .j{
-
+    background-image: url("images/j.png");
 }
 .k{
-
+    background-image: url("images/k.png");
 }
 .l{
-
+ background-image: url('images/l.png');
 }
    
