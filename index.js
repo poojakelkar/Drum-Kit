@@ -1,8 +1,7 @@
 var drumkit = document.querySelectorAll(".drum").length;
 
 for (var i = 0; i < drumkit; i++) {
-    document
-        .querySelectorAll(".drum")
+    document.querySelectorAll(".drum")
         [i].addEventListener("click", function () {
             var buttonHTML = this.innerHTML;
             switch (buttonHTML) {
